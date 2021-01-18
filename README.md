@@ -5,7 +5,7 @@ ex) 210118_Treasure_NAMA.c
 
 #### 2021-01-25 MON
 
-<h1 style="background-color:#FF3333;">씨바</h1>
+<h1 style="background-color:blue;">씨바</h1>
 
 [백준 알고리즘](https://www.acmicpc.net/problemset) 문제 참고.   출제자 : MUSBY
 
