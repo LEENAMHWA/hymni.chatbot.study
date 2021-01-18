@@ -5,7 +5,7 @@ ex) 210118_Treasure_NAMA.c
 
 #### 2021-01-25 MON
 
-<span style="color:blue;">씨바</span>
+<span style="color:blue">씨바</span>
 
 [백준 알고리즘](https://www.acmicpc.net/problemset) 문제 참고.   출제자 : MUSBY
 
