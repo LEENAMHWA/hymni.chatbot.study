@@ -5,6 +5,8 @@ ex) 210118_Treasure_NAMA.c
 
 #### 2021-01-25 MON
 
+<a color="#FF3333">씨바</a>
+
 [백준 알고리즘](https://www.acmicpc.net/problemset) 문제 참고.   출제자 : MUSBY
 
 - [동전 뒤집기, Coin Flip(1285)](https://www.acmicpc.net/problem/1285)
