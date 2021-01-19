@@ -7,8 +7,9 @@ ex) 210118_Treasure_NAMA.c
 
 ### 코드를 잘 짜려 하지말고, 머릿속에 떠오르는 개념과 로직을 코드로 구현하는 것에 초점을 맞추어 작성하세요.
 
-[백준 알고리즘](https://www.acmicpc.net/problemset) 문제 참고.   출제자 : MUSBY, NAMA
+[백준 알고리즘](https://www.acmicpc.net/problemset), [프로그래머스 Level 1](https://programmers.co.kr/learn/challenges) 문제 참고.   출제자 : MUSBY, NAMA
 
+- [2016년, 2016](https://programmers.co.kr/learn/courses/30/lessons/12901)
 - [토너먼트, torneamentum(1057)](https://www.acmicpc.net/problem/1057)
 - [더하기 사이클, Plus Cycle(1110)](https://www.acmicpc.net/problem/1110)
 
