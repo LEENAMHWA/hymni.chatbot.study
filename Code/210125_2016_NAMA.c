@@ -24,7 +24,6 @@ char* solution(int a, int b) {
         }
         
         if(days[mon-1] == day){
-            printf("\n[%d]\n",day);
             day = 1;
             mon++;
         }else{
