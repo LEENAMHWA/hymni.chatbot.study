@@ -3,9 +3,15 @@
 ex) 210118_Treasure_NAMA.c
 ## 문제목록
 
-#### 2021-01-25 MON
+#### 2021-02-01 MON
 
 ### 코드를 잘 짜려 하지말고, 머릿속에 떠오르는 개념과 로직을 코드로 구현하는 것에 초점을 맞추어 작성하세요.
+### 남의 코드 참조하지 마요. 뒤져.
+
+[백준 알고리즘](https://www.acmicpc.net/problemset) 문제 참고.   출제자 : MUSBY
+- [2진수 8진수](https://www.acmicpc.net/problem/1373)
+
+#### 2021-01-25 MON
 
 [백준 알고리즘](https://www.acmicpc.net/problemset), [프로그래머스 Level 1](https://programmers.co.kr/learn/challenges) 문제 참고.   출제자 : MUSBY, NAMA
 
