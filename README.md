@@ -9,7 +9,8 @@ ex) 210118_Treasure_NAMA.c
 ### 남의 코드 참조하지 마요. 뒤져.
 
 [백준 알고리즘](https://www.acmicpc.net/problemset) 문제 참고.   출제자 : MUSBY
-- [2진수 8진수](https://www.acmicpc.net/problem/1373)
+- [2진수 8진수, Binary to Octal](https://www.acmicpc.net/problem/1373)
+- [이진수 덧셈, Binary Addition](https://www.acmicpc.net/problem/2729)
 
 #### 2021-01-25 MON
 
