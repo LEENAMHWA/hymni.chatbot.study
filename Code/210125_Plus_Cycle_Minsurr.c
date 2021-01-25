@@ -19,7 +19,7 @@ int main(void) {
 	}	
 	
 	int result = 0;
-	//입력된 number의 10의자리, 1의자리를 각각 저장하기위한 배열	
+
 	if(number < 10) {
 		result = calculate(number);
 	}
