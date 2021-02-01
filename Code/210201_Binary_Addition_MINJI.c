@@ -3,8 +3,8 @@
 
 #define UPPER_LIMIT   	1000
 #define LOWER_LIMIT   	1
-#define BITUP 			10
-#define BITDOWN(X)		((X)/(10))
+#define BITUP	10
+#define BITDOWN(X)	((X)/(10))
 #define REMAINDER(X)	((X)%(10))
 
 int BitUp(int zegop);
@@ -54,19 +54,19 @@ int main(void){
 			num1[idx] = BITDOWN(num1[idx]);
 		}	
 		sum[idx] += BitUp(count++);
-   }
+	}
    
-   for(idx=0; idx<testcase; idx++){
-	   printf("%d\n", sum[idx]);
-   }
+	for(idx=0; idx<testcase; idx++){
+		printf("%d\n", sum[idx]);
+	}
 }
 
 int BitUp(int zegop){
-   if(zegop==0){
-      return 1;
-   }else{
-      return 10 * BitUp(zegop-1);
-   }
+	if(zegop==0){
+		return 1;
+	}else{
+		return 10 * BitUp(zegop-1);
+	}
 }   
 
 //시간초과
