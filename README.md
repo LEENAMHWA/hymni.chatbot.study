@@ -10,7 +10,7 @@ ex) 210118_Treasure_NAMA.c
 [백준 그리디 알고리즘](https://www.acmicpc.net/step/33) 문제 참고. 출제자 : 
 
 - [동전 0, MinCoin] (https://www.acmicpc.net/problem/11047)
-- [잃어버린 괄호, LostBracket](https://www.acmicpc.net/problem/1541)
+- [잃어버린 괄호, LostBracket] (https://www.acmicpc.net/problem/1541)
 
 ---------------------------------
 
