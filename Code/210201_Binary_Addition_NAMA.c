@@ -19,7 +19,7 @@ int main(void){
 
     char *binArr1 = (char *)malloc(sizeof(char) * MAX_BIN_LEN);
     char *binArr2 = (char *)malloc(sizeof(char) * MAX_BIN_LEN);
-    int **resultArr = (int **)malloc(sizeof(int) * (MAX_BIN_LEN + 1) * maxIter);
+    int **resultArr = (int **)malloc(sizeof(int*) * maxIter);
 
     for(int iterIdx = 0; iterIdx < maxIter; iterIdx++ ){
         carry = 0;
