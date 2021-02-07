@@ -20,7 +20,6 @@ int main(void){
     fgets(equations, sizeof(char)*EQUATION_MAX, stdin);
 
     eqLen = strlen(equations);
-    printf("[%d]",eqLen);
     for(int strIdx = 0; strIdx < eqLen; strIdx++){
         // Operator or Last data
         if(IS_OP(equations[strIdx]) || (strIdx == eqLen - 1)){
@@ -40,6 +39,9 @@ int main(void){
             tmpLen++;
         }
     }
+
+    free(equations);
+    free(opNum);
 
     printf("%d", totalSum);
     
